@@ -440,5 +440,29 @@
     "symbol": "BIFI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
+    "name": "Arbys",
+    "symbol": "ARBYS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+    "name": "Governance OHM",
+    "symbol": "gOHM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2338a5d62E9A766289934e8d2e83a443e8065b83",
+    "name": "Flux Protocol",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg"
   }
 ]
