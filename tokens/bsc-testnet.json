@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
   },
   {
+    "name": "MYDA",
+    "symbol": "MYDA",
+    "address": "0xe158Ee50755C776353726b79B444Fc8fE816967E",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Mydacoin-Multiswap/icons/master/token/myda.jpg"
+  },
+  {
     "name": "BUSD Token",
     "symbol": "BUSD",
     "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",

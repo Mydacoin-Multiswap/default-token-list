@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
   },
   {
+    "name": "MYDA",
+    "address": "0x83176cD06D15e916F4F2a9EFBB77b2b4be5d9968",
+    "symbol": "MYDA",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/Mydacoin-Multiswap/icons/master/token/myda.jpg"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
     "symbol": "DAI",
