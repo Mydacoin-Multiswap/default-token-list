@@ -1,16 +1,16 @@
 {
   "name": "myda_default_token_list",
-  "version": "20.8.1",
+  "version": "20.8.2",
   "description": "◦ The MydaSwap default token list",
-  "main": "build/myda-default.tokenlist.json",
+  "main": "build/sushiswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node internal/write.js > build/myda-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
     "sync": "node internal/sync.js"
   },
   "files": [
-    "build/myda-default.tokenlist.json"
+    "build/sushiswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
